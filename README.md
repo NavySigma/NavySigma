@@ -35,8 +35,8 @@ Bisa jadi Programmer bisa jadi Progamer
 Proyek-proyek yang aku kerjain atau ikut berkontribusi:
 
 <div align="center">
-  <a href="https://github.com/NavySigma/kosane-yoyok">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NavySigma&repo=kost-pak-yoyok&theme=dark&border_radius=10&title_color=B6FF40&icon_color=B6FF40&text_color=ffffff&bg_color=1a1a1a&hide_border=true" />
+  <a href="https://github.com/NavySigma/parkir-digital">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NavySigma&repo=parkir-digital&theme=dark&border_radius=10&title_color=B6FF40&icon_color=B6FF40&text_color=ffffff&bg_color=1a1a1a&hide_border=true" />
   </a>
   <a href="https://github.com/NavySigma/NavySigma">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=NavySigma&repo=NavySigma&theme=dark&border_radius=10&title_color=B6FF40&icon_color=B6FF40&text_color=ffffff&bg_color=1a1a1a&hide_border=true" />
