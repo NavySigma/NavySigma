@@ -1,19 +1,15 @@
-# Halo! Gue Navyz 👋
+# Halo! Aku Navyz 👋
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=B6FF40&height=200&section=header&text=Yo,%20Gue%20Navyz!%20👋&fontSize=50&animation=fadeIn&fontColor=1A1A1A" />
-</div>
-
-### 💫 Tentang Gue
-Gue **Fullstack Web Developer** yang doyan ngulik aplikasi web biar makin sat-set dan enak dilihat. Sekarang lagi fokus garap sistem manajemen sama nyobain teknologi web yang paling update.
+### 💫 Tentang Aku
+Aku **Fullstack Web Developer** yang doyan ngulik aplikasi web biar makin sat-set dan enak dilihat. Sekarang lagi fokus garap sistem manajemen sama nyobain teknologi web yang paling update.
 
 - 🔭 Lagi ngerjain: **Kost Pak Yoyok Management System**
 - 🌱 Lagi belajar: **Progressive Web Apps (PWA) & Cloud Deployment**
-- ⚡ Fun fact: Gue cinta mati sama kode yang rapi dan desain UI yang presisi (pixel-perfect!).
+- ⚡ Fun fact: Aku cinta mati sama kode yang rapi dan desain UI yang presisi (pixel-perfect!).
 
 ---
 
-### 🚀 Tech Stack yang Gue Pake
+### 🚀 Tech Stack yang Aku Pake
 
 <div align="left">
   <!-- Frontend -->
@@ -37,11 +33,18 @@ Gue **Fullstack Web Developer** yang doyan ngulik aplikasi web biar makin sat-se
 ---
 
 ### 🛠️ Repositori & Kontribusi
-Beberapa proyek yang pernah gue pegang atau lagi gue kembangin:
+Proyek-proyek yang aku kerjain atau ikut berkontribusi:
 
-- 🏠 **[Kost Pak Yoyok](https://github.com/NavySigma/kost-pak-yoyok)** - Sistem buat manajemen kost-kostan.
-- 🏗️ **[NavySigma/NavySigma](https://github.com/NavySigma/NavySigma)** - Project profile ini sendiri.
-- 📦 *[Isi repo kontribusi lainnya di sini ya, Kak!]*
+<div align="center">
+  <a href="https://github.com/NavySigma/kost-pak-yoyok">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NavySigma&repo=kost-pak-yoyok&theme=dark&border_radius=10&title_color=B6FF40" />
+  </a>
+  <a href="https://github.com/NavySigma/NavySigma">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NavySigma&repo=NavySigma&theme=dark&border_radius=10&title_color=B6FF40" />
+  </a>
+</div>
+
+<!-- Tambahin lagi di sini kalau ada repo baru ya Kak! -->
 
 ---
 
@@ -54,7 +57,7 @@ Beberapa proyek yang pernah gue pegang atau lagi gue kembangin:
 
 ---
 
-### 📫 Kontak Gue
+### 📫 Kontak Aku
 <div align="left">
   <a href="https://linkedin.com/in/[LINKEDIN_KAKAK]" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
