@@ -78,9 +78,9 @@ Proyek-proyek yang aku kerjain atau ikut berkontribusi:
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=5000&color=000000&center=true&vCenter=true&width=800&height=100&background=FFFFFF&lines=Sigma+lah+sebelum+kamu+di+Sigma+kan+-+NavySocrates" alt="Quotes" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=5000&color=000000&center=true&vCenter=true&width=700&height=70&background=FFFFFF&lines=Sigma+lah+sebelum+kamu+di+Sigma+kan+-+NavySocrates" alt="Quotes" />
 </div>
 
 </div>
-
+<br>
 I HEART NATASYA ❤️
