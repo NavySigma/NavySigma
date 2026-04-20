@@ -88,3 +88,5 @@ Proyek-proyek yang aku kerjain atau ikut berkontribusi:
 </div>
 
 </div>
+
+I HEART NATASYA ❤️
