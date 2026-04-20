@@ -38,8 +38,11 @@ Proyek-proyek yang aku kerjain atau ikut berkontribusi:
   <a href="https://github.com/NavySigma/parkir-digital">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=NavySigma&repo=parkir-digital&theme=dark&border_radius=10&title_color=B6FF40&icon_color=B6FF40&text_color=ffffff&bg_color=1a1a1a&hide_border=true" />
   </a>
-  <a href="https://github.com/NavySigma/NavySigma">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NavySigma&repo=NavySigma&theme=dark&border_radius=10&title_color=B6FF40&icon_color=B6FF40&text_color=ffffff&bg_color=1a1a1a&hide_border=true" />
+  <a href="https://github.com/NavySigma/hotel-dante">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NavySigma&repo=hotel-dante&theme=dark&border_radius=10&title_color=B6FF40&icon_color=B6FF40&text_color=ffffff&bg_color=1a1a1a&hide_border=true" />
+  </a>
+  <a href="https://github.com/mel-cell/mellow-movie_TMDb-api">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mel-cell&repo=mellow-movie_TMDb-api&theme=dark&border_radius=10&title_color=B6FF40&icon_color=B6FF40&text_color=ffffff&bg_color=1a1a1a&hide_border=true" />
   </a>
 </div>
 
