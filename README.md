@@ -78,9 +78,9 @@ Proyek-proyek yang aku kerjain atau ikut berkontribusi:
 <br/>
 
 <div align="center">
-  <table bgcolor="#ffffff">
+  <table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0">
     <tr>
-      <td align="center" style="padding: 15px 30px;">
+      <td align="center" style="padding: 20px 40px;">
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=5000&color=000000&center=true&vCenter=true&width=700&height=70&background=FFFFFF&lines=Sigma+lah+sebelum+kamu+di+Sigma+kan+-+NavySocrates" alt="Quotes" />
       </td>
     </tr>
