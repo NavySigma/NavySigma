@@ -3,7 +3,7 @@
 ### 💫 Tentang Aku
 
 Saya manusia biasa, makan nasi
-
+<br>
 Bisa jadi Programmer bisa jadi Progamer
 
 ---
@@ -70,5 +70,5 @@ Proyek-proyek yang aku kerjain atau ikut berkontribusi:
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&color=B6FF40&center=true&vCenter=true&width=600&lines=Sigma+lah+sebelum+kamu+di+Sigma+kan+-+NavySocrates" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B6FF40&center=true&vCenter=true&width=600&lines=Sigma+lah+sebelum+kamu+di+Sigma+kan+-+NavySocrates" />
 </div>
