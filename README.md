@@ -1,15 +1,13 @@
-# Halo! Aku Navyz 👋
+# Halo! Namaku Navyz 👋
 
-### 💫 Tentang Aku
-Aku **Fullstack Web Developer** yang doyan ngulik aplikasi web biar makin sat-set dan enak dilihat. Sekarang lagi fokus garap sistem manajemen sama nyobain teknologi web yang paling update.
+### 💫 About Me
+Saya cuma manusia biasa, makan nasi.
 
-- 🔭 Lagi ngerjain: **Kost Pak Yoyok Management System**
-- 🌱 Lagi belajar: **Progressive Web Apps (PWA) & Cloud Deployment**
-- ⚡ Fun fact: Aku cinta mati sama kode yang rapi dan desain UI yang presisi (pixel-perfect!).
+Bisa jadi Programmer bisa jadi Progamer
 
 ---
 
-### 🚀 Tech Stack yang Aku Pake
+### 🚀 Tech Stack
 
 <div align="left">
   <!-- Frontend -->
@@ -33,7 +31,7 @@ Aku **Fullstack Web Developer** yang doyan ngulik aplikasi web biar makin sat-se
 ---
 
 ### 🛠️ Repositori & Kontribusi
-Proyek-proyek yang aku kerjain atau ikut berkontribusi:
+Proyek-proyek yang aku kerjain atau kontribusi:
 
 <div align="center">
   <a href="https://github.com/NavySigma/kost-pak-yoyok">
@@ -57,7 +55,7 @@ Proyek-proyek yang aku kerjain atau ikut berkontribusi:
 
 ---
 
-### 📫 Kontak Aku
+### 📫 Kontak
 <div align="left">
   <a href="https://linkedin.com/in/[LINKEDIN_KAKAK]" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
