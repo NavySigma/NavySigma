@@ -1,13 +1,15 @@
-# Halo! Namaku Navyz 👋
+# Halo! Aku Navyz 👋
 
-### 💫 About Me
-Saya cuma manusia biasa, makan nasi.
+### 💫 Tentang Aku
+Aku **Fullstack Web Developer** yang doyan ngulik aplikasi web biar makin sat-set dan enak dilihat. Sekarang lagi fokus garap sistem manajemen sama nyobain teknologi web yang paling update.
 
-Bisa jadi Programmer bisa jadi Progamer
+- 🔭 Lagi ngerjain: **Kost Pak Yoyok Management System**
+- 🌱 Lagi belajar: **Progressive Web Apps (PWA) & Cloud Deployment**
+- ⚡ Fun fact: Aku cinta mati sama kode yang rapi dan desain UI yang presisi (pixel-perfect!).
 
 ---
 
-### 🚀 Tech Stack
+### 🚀 Tech Stack yang Aku Pake
 
 <div align="left">
   <!-- Frontend -->
@@ -31,24 +33,29 @@ Bisa jadi Programmer bisa jadi Progamer
 ---
 
 ### 🛠️ Repositori & Kontribusi
-Proyek-proyek yang aku kerjain atau kontribusi:
+Proyek-proyek yang aku kerjain atau ikut berkontribusi:
 
-- 🏠 **[Kost Pak Yoyok Management System](https://github.com/NavySigma/kost-pak-yoyok)** - Sistem manajemen kost-kostan terintegrasi.
-- 🏗️ **[NavySigma](https://github.com/NavySigma/NavySigma)** - Repositori profil GitHub ini.
-<!-- Kakak bisa tambah list repo lainnya di sini ya! -->
+<div align="center">
+  <a href="https://github.com/NavySigma/kost-pak-yoyok">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NavySigma&repo=kost-pak-yoyok&theme=dark&border_radius=10&title_color=B6FF40&icon_color=B6FF40&text_color=ffffff&bg_color=1a1a1a&hide_border=true" />
+  </a>
+  <a href="https://github.com/NavySigma/NavySigma">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NavySigma&repo=NavySigma&theme=dark&border_radius=10&title_color=B6FF40&icon_color=B6FF40&text_color=ffffff&bg_color=1a1a1a&hide_border=true" />
+  </a>
+</div>
 
 ---
 
 ### 📊 Statistik GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NavySigma&show_icons=true&title_color=B6FF40&icon_color=B6FF40&text_color=ffffff&bg_color=1a1a1a&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavySigma&layout=compact&langs_count=7&title_color=B6FF40&text_color=ffffff&bg_color=1a1a1a&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NavySigma&show_icons=true&theme=dark&title_color=B6FF40&icon_color=B6FF40&text_color=ffffff&bg_color=1a1a1a&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavySigma&layout=compact&langs_count=7&theme=dark&title_color=B6FF40&text_color=ffffff&bg_color=1a1a1a&hide_border=true" />
 </div>
 
 ---
 
-### 📫 Kontak
+### 📫 Kontak Aku
 <div align="left">
   <a href="https://linkedin.com/in/[LINKEDIN_KAKAK]" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -64,5 +71,5 @@ Proyek-proyek yang aku kerjain atau kontribusi:
 <br/>
 
 <div align="center">
-  <h3>"Sigma lah sebelum kamu di Sigma kan -NavySocrates"</h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B6FF40&center=true&vCenter=true&width=600&lines=Sigma+lah+sebelum+kamu+di+Sigma+kan+-+NavySocrates" />
 </div>
