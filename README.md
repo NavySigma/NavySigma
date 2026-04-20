@@ -35,16 +35,9 @@ Aku **Fullstack Web Developer** yang doyan ngulik aplikasi web biar makin sat-se
 ### 🛠️ Repositori & Kontribusi
 Proyek-proyek yang aku kerjain atau ikut berkontribusi:
 
-<div align="center">
-  <a href="https://github.com/NavySigma/kost-pak-yoyok">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NavySigma&repo=kost-pak-yoyok&theme=dark&border_radius=10&title_color=B6FF40" />
-  </a>
-  <a href="https://github.com/NavySigma/NavySigma">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NavySigma&repo=NavySigma&theme=dark&border_radius=10&title_color=B6FF40" />
-  </a>
-</div>
-
-<!-- Tambahin lagi di sini kalau ada repo baru ya Kak! -->
+- 🏠 **[Kost Pak Yoyok Management System](https://github.com/NavySigma/kost-pak-yoyok)** - Sistem manajemen kost-kostan terintegrasi.
+- 🏗️ **[NavySigma](https://github.com/NavySigma/NavySigma)** - Repositori profil GitHub ini.
+<!-- Kakak bisa tambah list repo lainnya di sini ya! -->
 
 ---
 
@@ -73,5 +66,5 @@ Proyek-proyek yang aku kerjain atau ikut berkontribusi:
 <br/>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  <h3>"Sigma lah sebelum kamu di Sigma kan -NavySocrates"</h3>
 </div>
