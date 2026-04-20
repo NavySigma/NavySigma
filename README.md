@@ -1,11 +1,10 @@
-# Halo! Aku Navyz 👋
+# Halo! Namaku Navyz 👋
 
 ### 💫 Tentang Aku
-Aku **Fullstack Web Developer** yang doyan ngulik aplikasi web biar makin sat-set dan enak dilihat. Sekarang lagi fokus garap sistem manajemen sama nyobain teknologi web yang paling update.
 
-- 🔭 Lagi ngerjain: **Kost Pak Yoyok Management System**
-- 🌱 Lagi belajar: **Progressive Web Apps (PWA) & Cloud Deployment**
-- ⚡ Fun fact: Aku cinta mati sama kode yang rapi dan desain UI yang presisi (pixel-perfect!).
+Saya manusia biasa, makan nasi
+<br>
+Bisa jadi Programmer bisa jadi Progamer
 
 ---
 
@@ -34,11 +33,10 @@ Aku **Fullstack Web Developer** yang doyan ngulik aplikasi web biar makin sat-se
 
 ### 🛠️ Repositori & Kontribusi
 Proyek-proyek yang aku kerjain atau ikut berkontribusi:
-*(Kartu ini cuma muncul kalau repositorinya **Public** ya, Kak!)*
 
 <div align="center">
-  <a href="https://github.com/NavySigma/kost-pak-yoyok">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NavySigma&repo=kost-pak-yoyok&theme=dark&border_radius=10&title_color=B6FF40&icon_color=B6FF40&text_color=ffffff&bg_color=1a1a1a&hide_border=true" />
+  <a href="https://github.com/NavySigma/kosane-yoyok">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NavySigma&repo=kosane-yoyok&theme=dark&border_radius=10&title_color=B6FF40&icon_color=B6FF40&text_color=ffffff&bg_color=1a1a1a&hide_border=true" />
   </a>
   <a href="https://github.com/NavySigma/NavySigma">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=NavySigma&repo=NavySigma&theme=dark&border_radius=10&title_color=B6FF40&icon_color=B6FF40&text_color=ffffff&bg_color=1a1a1a&hide_border=true" />
@@ -61,10 +59,10 @@ Proyek-proyek yang aku kerjain atau ikut berkontribusi:
   <a href="https://linkedin.com/in/[LINKEDIN_KAKAK]" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/[INSTAGRAM_KAKAK]" target="_blank">
+  <a href="https://instagram.com/navysigma" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:[EMAIL_KAKAK]" target="_blank">
+  <a href="mailto:niorugarox@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
@@ -72,5 +70,5 @@ Proyek-proyek yang aku kerjain atau ikut berkontribusi:
 <br/>
 
 <div align="center">
-  <h3>"Sigma lah sebelum kamu di Sigma kan - NavySocrates"</h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B6FF40&center=true&vCenter=true&width=600&lines=Sigma+lah+sebelum+kamu+di+Sigma+kan+-+NavySocrates" />
 </div>
