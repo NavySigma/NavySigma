@@ -1,3 +1,5 @@
+<div align="center">
+
 # Halo! Namaku Navyz 👋
 
 ### 💫 Tentang Aku
@@ -10,7 +12,7 @@ Bisa jadi Programmer bisa jadi Progamer
 
 ### 🚀 Tech Stack yang Aku Pake
 
-<div align="left">
+<div align="center">
   <!-- Frontend -->
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
@@ -33,6 +35,8 @@ Bisa jadi Programmer bisa jadi Progamer
 
 ### 🛠️ Repositori & Kontribusi
 Proyek-proyek yang aku kerjain atau ikut berkontribusi:
+
+<br/>
 
 <div align="center">
   <a href="https://github.com/NavySigma/parkir-digital">
@@ -58,7 +62,8 @@ Proyek-proyek yang aku kerjain atau ikut berkontribusi:
 ---
 
 ### 📫 Kontak Aku
-<div align="left">
+
+<div align="center">
   <a href="https://linkedin.com/in/[LINKEDIN_KAKAK]" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -72,6 +77,6 @@ Proyek-proyek yang aku kerjain atau ikut berkontribusi:
 
 <br/>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=5000&color=000000&center=true&vCenter=true&width=600&lines=Sigma+lah+sebelum+kamu+di+Sigma+kan+-+NavySocrates" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=5000&color=000000&center=true&vCenter=true&width=600&lines=Sigma+lah+sebelum+kamu+di+Sigma+kan+-+NavySocrates" />
+
 </div>
