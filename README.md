@@ -33,34 +33,6 @@ Bisa jadi Programmer bisa jadi Progamer
 
 ---
 
-### 🛠️ Repositori & Kontribusi
-Proyek-proyek yang aku kerjain atau ikut berkontribusi:
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/NavySigma/parkir-digital">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NavySigma&repo=parkir-digital&theme=dark&border_radius=10&title_color=B6FF40&icon_color=B6FF40&text_color=ffffff&bg_color=1a1a1a&hide_border=true" />
-  </a>
-  <a href="https://github.com/NavySigma/hotel-dante">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NavySigma&repo=hotel-dante&theme=dark&border_radius=10&title_color=B6FF40&icon_color=B6FF40&text_color=ffffff&bg_color=1a1a1a&hide_border=true" />
-  </a>
-  <a href="https://github.com/mel-cell/mellow-movie_TMDb-api">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mel-cell&repo=mellow-movie_TMDb-api&theme=dark&border_radius=10&title_color=B6FF40&icon_color=B6FF40&text_color=ffffff&bg_color=1a1a1a&hide_border=true" />
-  </a>
-</div>
-
----
-
-### 📊 Statistik GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NavySigma&show_icons=true&theme=dark&title_color=B6FF40&icon_color=B6FF40&text_color=ffffff&bg_color=1a1a1a&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavySigma&layout=compact&langs_count=7&theme=dark&title_color=B6FF40&text_color=ffffff&bg_color=1a1a1a&hide_border=true" />
-</div>
-
----
-
 ### 📫 Kontak Aku
 
 <div align="center">
