@@ -1,8 +1,8 @@
 <div align="center">
 
-# Halo! Namaku Navyz 👋
+# Halo! Namaku Navyz :p
 
-### 💫 Tentang Aku
+### Tentang Aku
 
 Saya manusia biasa, makan nasi
 <br>
@@ -10,7 +10,7 @@ Bisa jadi Programmer bisa jadi Progamer
 
 ---
 
-### 🚀 Tech Stack yang Aku Pake
+### Tech Stack yang Aku Pake
 
 <div align="center">
   <!-- Frontend -->
@@ -33,7 +33,7 @@ Bisa jadi Programmer bisa jadi Progamer
 
 ---
 
-### 📫 Kontak Aku
+### Kontak Aku
 
 <div align="center">
   <a href="https://linkedin.com/in/[LINKEDIN_KAKAK]" target="_blank">
