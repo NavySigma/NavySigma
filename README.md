@@ -2,14 +2,14 @@
 
 # Halo! Namaku Navyz :p
 
-## Tentang Aku
+### Tentang Aku
 Saya manusia biasa, makan nasi
 <br>
 Bisa jadi Programmer bisa jadi Progamer
 
 ---
 
-## Tech Stack yang Aku Pake
+### Tech Stack yang Aku Pake
 <div align="center">
   <!-- Frontend -->
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -31,7 +31,7 @@ Bisa jadi Programmer bisa jadi Progamer
 
 ---
 
-## Kontak Aku
+### Kontak Aku
 <div align="center">
   <a href="https://linkedin.com/in/[LINKEDIN_KAKAK]" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
